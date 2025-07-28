@@ -1,0 +1,15 @@
+# Entorno virtual
+env/
+venv/
+.env/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Checkpoints de notebooks
+*.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
